@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "connect-multiparty": "^2.0.0"
+  }
+}
